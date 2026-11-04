@@ -1,0 +1,14 @@
+﻿{
+    "id":  "automated-eda-tool",
+    "name":  "Automated EDA Tool",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit",
+    "stack":  "Python; Streamlit; ydata-profiling",
+    "goal":  "Upload CSV → auto profile, missing-value map, outliers and downloadable report.",
+    "license":  "MIT",
+    "licenseWarning":  null,
+    "entry":  "backend/app.py",
+    "expectedFileCount":  47,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  141
+}
