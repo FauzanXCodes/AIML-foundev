@@ -1,0 +1,14 @@
+﻿{
+    "id":  "crime-data-hotspot-analysis",
+    "name":  "Crime Data Hotspot Analysis",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/Arun709/Chicago_crime_patrolIQ",
+    "stack":  "Python; Pandas; Folium; DBSCAN",
+    "goal":  "Spatial clustering, time-of-day patterns and patrol-route suggestions.",
+    "license":  "MIT",
+    "licenseWarning":  null,
+    "entry":  "clustering_analysis.py",
+    "expectedFileCount":  3,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  20
+}
