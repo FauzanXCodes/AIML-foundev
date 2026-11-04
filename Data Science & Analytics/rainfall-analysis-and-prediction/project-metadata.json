@@ -1,0 +1,14 @@
+﻿{
+    "id":  "rainfall-analysis-and-prediction",
+    "name":  "Rainfall Analysis \u0026 Prediction",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/kratzert/RRMPG",
+    "stack":  "Python; Pandas; LSTM/Prophet",
+    "goal":  "Monsoon decomposition, drought years, district-level prediction.",
+    "license":  "MIT",
+    "licenseWarning":  null,
+    "entry":  "rrmpg/models/__init__.py",
+    "expectedFileCount":  34,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  77
+}

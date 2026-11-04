@@ -1,0 +1,16 @@
+# specific files to ignore
+.project
+.pydevproject
+
+# file types to ignore
+*.pyc
+
+# folders to ignore
+build/
+dist/
+docs/build/
+rrmpg.egg-info/
+.settings/
+debug/
+.ipynb_checkpoints/
+.venv/
