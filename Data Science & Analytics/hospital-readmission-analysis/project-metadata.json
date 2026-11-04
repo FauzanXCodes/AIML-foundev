@@ -1,0 +1,14 @@
+﻿{
+    "id":  "hospital-readmission-analysis",
+    "name":  "Hospital Readmission Analysis",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/JeremyGracey-AI/Hospital-Readmission-Prediction-Model",
+    "stack":  "Python; Pandas; sklearn",
+    "goal":  "High-risk cohort identification, cost impact and feature importance.",
+    "license":  "MIT",
+    "licenseWarning":  null,
+    "entry":  "index.html",
+    "expectedFileCount":  6,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  12
+}
