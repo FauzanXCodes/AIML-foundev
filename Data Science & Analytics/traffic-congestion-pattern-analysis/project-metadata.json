@@ -1,0 +1,14 @@
+﻿{
+    "id":  "traffic-congestion-pattern-analysis",
+    "name":  "Traffic Congestion Pattern Analysis",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/ArpitMangaraj/smart-city-traffic-pattern-analysis-hadoop",
+    "stack":  "Python; Pandas",
+    "goal":  "Peak windows, bottleneck junctions, weather/congestion correlation.",
+    "license":  "Apache-2.0",
+    "licenseWarning":  null,
+    "entry":  "TrafficMapper.java",
+    "expectedFileCount":  3,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  7
+}

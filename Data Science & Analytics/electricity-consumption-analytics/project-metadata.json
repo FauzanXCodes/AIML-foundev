@@ -1,0 +1,14 @@
+﻿{
+    "id":  "electricity-consumption-analytics",
+    "name":  "Electricity Consumption Analytics",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/ujohn33/SMAP",
+    "stack":  "Python; Pandas",
+    "goal":  "Load curves, peak-hour detection, anomaly days and tariff impact simulation.",
+    "license":  "Unknown",
+    "licenseWarning":  null,
+    "entry":  "setup.py",
+    "expectedFileCount":  7,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  19
+}

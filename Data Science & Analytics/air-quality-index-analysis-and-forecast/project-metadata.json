@@ -1,0 +1,14 @@
+﻿{
+    "id":  "air-quality-index-analysis-and-forecast",
+    "name":  "Air Quality Index Analysis \u0026 Forecast",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/yankeexe/air-quality-cli",
+    "stack":  "Python; ARIMA; Folium",
+    "goal":  "Pollutant trends, seasonal patterns, city comparison and 7-day forecast.",
+    "license":  "Apache-2.0",
+    "licenseWarning":  null,
+    "entry":  "main.go",
+    "expectedFileCount":  15,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  28
+}

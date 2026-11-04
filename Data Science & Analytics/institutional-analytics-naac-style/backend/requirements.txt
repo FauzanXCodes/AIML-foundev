@@ -1,0 +1,14 @@
+Django>=4.2
+psycopg2-binary>=2.9
+python-dotenv
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+requests
+minio
+meilisearch
+pytesseract
+Pillow
+opencv-python
+reportlab
+python-keycloak

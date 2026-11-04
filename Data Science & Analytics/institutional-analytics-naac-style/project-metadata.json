@@ -1,0 +1,14 @@
+﻿{
+    "id":  "institutional-analytics-naac-style",
+    "name":  "Institutional Analytics (NAAC-style)",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/TanviShetty19/Cloud-Based-Naac-Data-Management-System",
+    "stack":  "Python; Pandas; Power BI",
+    "goal":  "Student-faculty ratio, placement %, publication counts and accreditation-ready charts.",
+    "license":  "Unknown",
+    "licenseWarning":  null,
+    "entry":  "frontend/index.html",
+    "expectedFileCount":  44,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  66
+}

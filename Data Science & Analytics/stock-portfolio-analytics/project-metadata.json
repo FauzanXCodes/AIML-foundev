@@ -1,0 +1,14 @@
+﻿{
+    "id":  "stock-portfolio-analytics",
+    "name":  "Stock Portfolio Analytics",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/lequant40/portfolio_analytics_js",
+    "stack":  "Python; yfinance; Plotly",
+    "goal":  "CAGR, Sharpe, drawdown, correlation matrix and efficient-frontier basics.",
+    "license":  "MIT",
+    "licenseWarning":  null,
+    "entry":  "Gruntfile.js",
+    "expectedFileCount":  24,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  36
+}

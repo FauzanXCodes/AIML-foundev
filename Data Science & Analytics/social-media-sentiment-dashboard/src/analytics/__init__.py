@@ -1,0 +1,3 @@
+from .sentiment_analysis import SentimentAnalyzer, analyze_posts_sentiment, sentiment_distribution
+from .trend_analysis import compute_trending_topics
+from .metrics import compute_metrics_for_platform, compute_overall_metrics

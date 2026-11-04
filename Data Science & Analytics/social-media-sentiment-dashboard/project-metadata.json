@@ -1,0 +1,14 @@
+﻿{
+    "id":  "social-media-sentiment-dashboard",
+    "name":  "Social Media Sentiment Dashboard",
+    "domain":  "Data Science \u0026 Analytics",
+    "repository":  "https://github.com/avrtt/social-metrics-dashboard",
+    "stack":  "Python; Tweepy/Scraper; VADER",
+    "goal":  "Live keyword sentiment, trending topics and emotion breakdown.",
+    "license":  "Apache-2.0",
+    "licenseWarning":  null,
+    "entry":  "src/main.py",
+    "expectedFileCount":  24,
+    "downloadStatus":  "success",
+    "downloadedFileCount":  30
+}
